@@ -1,9 +1,9 @@
 # Hello everyone👋! I'm Sai Polaraju Yalaganti
-- 👋 Hi, I’m @polaraju1005
-- 👀 I’m interested in android development ...
-- 🌱 I’m currently working on Android ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 Native Android Developer skilled in Java and Kotlin
+- ⭐ Former Google Developer Student Clubs Android Lead @GDSC GMRIT
+- 🌱 I’m currently working on Android and Web
+- 💞️ Jetpack Compose Camp Facilitator @GDSC GMRIT
+- 📫 How to reach me https://twitter.com/saipolaraju
 
 <!---
 polaraju1005/polaraju1005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
