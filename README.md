@@ -1,7 +1,7 @@
 # Hello everyone👋! I'm Sai Polaraju Yalaganti
 - 💻 Native Android Developer skilled in Java and Kotlin
 - ⭐ Former Google DSC Core Team Member @GDSC GMRIT
-- 🌱 I’m currently working as Android Developer @ReNoteAI
+- 🌱 I’m currently working as Android Developer @ReNote AI Pvt Ltd.
 - 💞️ Former Jetpack Compose Camp Facilitator @GDSC GMRIT
 - 📫 How to reach me
 <!---
