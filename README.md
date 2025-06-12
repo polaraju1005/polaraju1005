@@ -65,6 +65,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polaraju1005&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=polaraju1005&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaraju1005&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
 <!---
 polaraju1005/polaraju1005 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
